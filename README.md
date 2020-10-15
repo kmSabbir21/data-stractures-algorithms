@@ -4,3 +4,5 @@
 [Selection sort](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/SelectionSort)
 
 [Bubble Sort](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/Bubble-Sort)
+
+[Insertion Sort](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/_new?wiki%5Bname%5D=_Footer)
