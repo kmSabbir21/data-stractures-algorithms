@@ -9,3 +9,5 @@
 
 
 [Stack](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/_Footer/_edit)
+
+[Queue](https://github.com/kmSabbir21/data-stractures-algorithms/wiki)
