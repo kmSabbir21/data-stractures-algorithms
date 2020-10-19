@@ -1,5 +1,5 @@
 # data-stractures-algorithms
-[binary search](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/test)
+[binary search](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/Binary)
 
 [Selection sort](https://github.com/kmSabbir21/data-stractures-algorithms/wiki/SelectionSort)
 
