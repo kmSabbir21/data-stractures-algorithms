@@ -1,5 +1,4 @@
 package com.tree;
-
 import java.util.Scanner;
 
 public class Tree {
