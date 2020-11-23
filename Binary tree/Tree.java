@@ -21,7 +21,7 @@ public class Tree {
    static Scanner sc=null;
     public static void main(String[] args) {
     sc=new Scanner(System.in);
-        createTree();
+    createTree();
     }
     
 }
